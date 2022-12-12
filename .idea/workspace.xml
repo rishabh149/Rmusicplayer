@@ -9,17 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ce09ead-c94c-4116-bf03-88871fbce558" name="Changes" comment="FINISHED PROJECT">
-      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Rmusic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Rmusic.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Rmusic.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Rmusic.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Rmusic.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-    </list>
+    <list default="true" id="0ce09ead-c94c-4116-bf03-88871fbce558" name="Changes" comment="FINISHEDdds" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +41,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -142,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670838507817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FINISHEDdds">
+      <created>1670838662013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670838662013</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
